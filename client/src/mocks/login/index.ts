@@ -1,1 +1,1 @@
-export let login = {};
+export let mock_login = {};

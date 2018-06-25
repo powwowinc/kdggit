@@ -1,1 +1,1 @@
-export let menu = {};
+export let mock_menu = {};
