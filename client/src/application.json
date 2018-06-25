@@ -3,7 +3,15 @@
   "description": "",
   "defaultLayout": "PhonePortrait",
   "previewToken": "29be76d0",
-  "clientVersion": "6.0.22",
+  "clientVersion": "6.0.23",
   "theme": "Anchor",
-  "creatorId": "admin"
+  "creatorId": "admin",
+  "id": "kdggit",
+  "isBuiltInTemplate": false,
+  "screensCount": 1,
+  "isVersioned": true,
+  "pathToRepo": "/usr/share/powwowstudio/users/admin/kdggit",
+  "githubRepo": "https://github.com/powwowinc/kdggit",
+  "creatorName": "PowWow Admin",
+  "explorations": []
 }
