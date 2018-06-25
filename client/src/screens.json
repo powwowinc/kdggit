@@ -7,6 +7,12 @@
       "name": "login",
       "sourceScreenId": "Login_LoginLightBlue",
       "sourceAppId": "universaltemplates"
+    },
+    {
+      "id": "categorylistview",
+      "name": "CategoryListView",
+      "sourceScreenId": "ListView_CategoryListView",
+      "sourceAppId": "universaltemplates"
     }
   ],
   "startScreen": "login"
